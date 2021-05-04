@@ -20,7 +20,7 @@ let arr = [];
 //Esta variavel guarda a quantidade de itens que será exibido em cada página!
 let itensPerPage = 2;
     
-let arr2 = [{nome:'minha rola'},{nome:'pirokinha'},{nome: 'buseta'},{nome: 'cu'},{nome: 'felp gay'}];
+let arr2 = [{nome:'item'},{nome:'item_2'},{nome: 'item_3'},{nome: 'item_4'},{nome: 'item_5'}];
     
 let pages = Math.ceil(arr2.length / itensPerPage)
     
